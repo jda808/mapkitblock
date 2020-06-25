@@ -29,7 +29,7 @@
     "url": "https://github.com/10up/maps-block-apple"
   },
   "devDependencies": {
-    "@wordpress/eslint-plugin": "^5.1.0",
-    "@wordpress/scripts": "^9.0.0"
+    "@wordpress/eslint-plugin": "^7.1.0",
+    "@wordpress/scripts": "^12.0.0"
   }
 }
